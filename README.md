@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi there! I'm a Computer Science senior at Texas State University with a minor in Mathematics and a passion for creating innovative AI solutions. Currently, I'm working as a Software Engineer - AI Consultant at Outlier AI, where I specialize in developing intelligent systems that enhance user experiences.<be>
+Hi there! I'm a Computer Science senior at Texas State University with a minor in Mathematics and a passion for creating innovative AI solutions. Currently, I'm working as a Software Engineer - AI Consultant at Outlier AI, where I specialize in developing intelligent systems that enhance user experiences.
 
-I'm particularly focused on AI-driven applications and have been building my own AI assistant called Nimbus, designed to generate personalized experiences, such as Spotify playlists, based on user prompts. My skills also extend to Python, C++, Java, and web development, where I've created my own personal portfolio!<be>
+I'm particularly focused on AI-driven applications and have been building my own AI assistant called Nimbus, designed to provide personalized interactions and streamline various tasks based on user prompts. My skills also extend to Python, C++, Java, and web development, where I've created my own personal portfolio!
 
-In addition to my work in AI, I have experience with tools like Wireshark and am exploring the possibilities of computer graphics and computer vision to further expand my expertise. When I'm not coding, you can find me listening to bands like Deftones and Cigarettes After Sex, or enhancing my skills in machine learning and software architecture.
+In addition to my work in AI, I have experience with tools like Wireshark and am exploring the possibilities of computer graphics and computer vision to further expand my expertise. When I'm not coding, you can find me listening to bands like Deftones and Cigarettes After Sex, or enhancing my skills in machine learning and computer vision.
 
 
 ## 🌐 Socials:
