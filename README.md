@@ -1,6 +1,6 @@
 # Hi there! I'm Jair 👋
 
-# 💫 About Me:
+## 💫 About Me:
 I'm a **Computer Science senior** at Texas State University with a **minor in Mathematics** and a strong focus on **Data Engineering**. I'm passionate about turning raw data into actionable insights and building scalable pipelines to process and transform large datasets.
 
 Currently, I'm expanding my expertise in **ETL pipelines**, **big data technologies**, and **cloud platforms**. I’ve also developed robust skills in **Python, SQL, and Pandas**, and I’m diving into tools like **Apache Spark** and **Airflow** to master workflow orchestration and distributed systems.
