@@ -1,4 +1,4 @@
-### Hi there! I'm Jair 👋
+# Hi there! I'm Jair 👋
 
 # 💫 About Me:
 I'm a **Computer Science senior** at Texas State University with a **minor in Mathematics** and a strong focus on **Data Engineering**. I'm passionate about turning raw data into actionable insights and building scalable pipelines to process and transform large datasets.
