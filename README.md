@@ -1,9 +1,13 @@
+### Hi there! I'm Jair 👋
+
 # 💫 About Me:
-Hi there! I'm a Computer Science senior at Texas State University with a minor in Mathematics and a passion for creating innovative AI solutions. Currently, I'm working as a Software Engineer - AI Consultant at Outlier AI, where I specialize in developing intelligent systems that enhance user experiences.
+I'm a **Computer Science senior** at Texas State University with a **minor in Mathematics** and a strong focus on **Data Engineering**. I'm passionate about turning raw data into actionable insights and building scalable pipelines to process and transform large datasets.
 
-I'm particularly focused on AI-driven applications and have been building my own AI assistant called Nimbus, designed to provide personalized interactions and streamline various tasks based on user prompts. My skills also extend to Python, C++, Java, and web development, where I've created my own personal portfolio!
+Currently, I'm expanding my expertise in **ETL pipelines**, **big data technologies**, and **cloud platforms**. I’ve also developed robust skills in **Python, SQL, and Pandas**, and I’m diving into tools like **Apache Spark** and **Airflow** to master workflow orchestration and distributed systems.
 
-In addition to my work in AI, I have experience with tools like Wireshark and am exploring the possibilities of computer graphics and computer vision to further expand my expertise. When I'm not coding, you can find me listening to bands like Deftones and Cigarettes After Sex, or enhancing my skills in machine learning and computer vision.
+Currently, as an AI Consultant at Outlier AI, I work on building intelligent systems and enhancing user experiences. While I still love AI, my current journey is focused on data engineering and scalable data solutions.
+
+When I’m not working towards my data journey, you can find me talking about cars, exploring new music (Deftones and Cigarettes After Sex are my go-tos), or building projects that combine data and creativity.
 
 
 ## 🌐 Socials:
