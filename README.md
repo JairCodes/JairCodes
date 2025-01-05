@@ -1,13 +1,11 @@
 # Hi there! I'm Jair 👋
 
 ## 💫 About Me:
-I'm a **Computer Science senior** at Texas State University with a **minor in Mathematics** and a strong focus on **Data Engineering**. I'm passionate about turning raw data into actionable insights and building scalable pipelines to process and transform large datasets.
+I'm a **Senior Computer Science student** at **Texas State University** with a **minor in Mathematics**, based in **Austin, TX**. My technical expertise spans **IT systems, software engineering,** and **data management**, with proficiency in **Python, Java, C++,** and **SQL**. I'm passionate about ensuring smooth network operations, optimizing system performance, and tackling complex technical challenges.
 
-Currently, I'm expanding my expertise in **ETL pipelines**, **big data technologies**, and **cloud platforms**. I’ve also developed robust skills in **Python, SQL, and Pandas**, and I’m diving into tools like **Apache Spark** and **Airflow** to master workflow orchestration and distributed systems.
+Currently, I’m expanding my knowledge in **networking technologies, cloud support,** and **IT infrastructure**. I’ve developed hands-on experience in **hardware setup, troubleshooting,** and **optimizing systems** for efficiency and security. I’m focused on applying my skills to build and support reliable, secure, and scalable systems across various domains.
 
-Currently, as an AI Consultant at Outlier AI, I work on building intelligent systems and enhancing user experiences. While I still love AI, my current journey is focused on data engineering and scalable data solutions.
-
-When I’m not working towards my data journey, you can find me talking about cars, exploring new music (Deftones and Cigarettes After Sex are my go-tos), or building projects that combine data and creativity.
+As an **AI Consultant at Outlier AI**, I continue to work on intelligent systems, but my journey has recently pivoted to building robust, dynamic IT environments. When I'm not exploring IT solutions, you can find me discussing cars, discovering new music (Deftones and Cigarettes After Sex are my favorites), or working on projects that blend creativity with technical solutions.
 
 
 ## 🌐 Socials:
