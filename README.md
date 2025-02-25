@@ -1,11 +1,11 @@
 # Hi there! I'm Jair 👋
 
 ## 💫 About Me:
-I'm a **Senior Computer Science student** at **Texas State University** with a **minor in Mathematics**, based in **Austin, TX**. My technical expertise spans **IT systems, software engineering,** and **data management**, with proficiency in **Python, Java, C++,** and **SQL**. I'm passionate about ensuring smooth network operations, optimizing system performance, and tackling complex technical challenges.
+I'm a **Senior Computer Science student** at **Texas State University** with a **minor in Mathematics**, based in **Austin, TX**. My technical expertise spans **Cybersecurity, software engineering,** and **Networking**, with knowledge of **Python, Java, C++,** and **SQL**. I'm passionate about learning new technologies every day, applying myself to a new skill, and fortifying my security awareness/knowledge.
 
-Currently, I’m expanding my knowledge in **security analysis, network concepts,** and **security protocols**. I’ve developed hands-on experience in **hardware setup, troubleshooting,** and **optimizing systems** for efficiency and security. I’m focused on applying my skills to build and support reliable, secure, and scalable systems across various domains.
+Currently, I’m expanding my knowledge in **security analysis, network concepts,** and **security protocols**. I’ve developed hands-on experience in **hardware setup, troubleshooting,** and **optimizing systems** for efficiency and security. I’m focused on applying my skills to build and support reliable, secure, and scalable systems.
 
-As an **AI Consultant at Outlier AI**, I continue to work on intelligent systems, but my journey has recently pivoted to Cybersecurity, where I am working on various projects, online courses, and certifications. When I'm not exploring Cybersecurity, you can find me discussing cars, discovering new music (CAS and Current Joys are some of my favorite), or working on projects that blend creativity with technical solutions.
+As an **AI Consultant at Outlier AI**, I continue to work on intelligent systems, but my journey has recently pivoted to Cybersecurity, where I am working on various projects, online courses, and certifications. When I'm not exploring Cybersecurity, you can find me discussing cars, discovering new music (CAS and Current Joys are some of my favorites), or working on projects that blend my creativity with technical solutions.
 
 
 ## 🌐 Socials:
