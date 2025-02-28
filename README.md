@@ -5,7 +5,7 @@ I'm a **Senior Computer Science student** at **Texas State University** with a *
 
 Currently, I’m expanding my knowledge in **security analysis, network concepts,** and **security protocols**. I’ve developed hands-on experience in **hardware setup, troubleshooting,** and **optimizing systems** for efficiency and security. I’m focused on applying my skills to build and support reliable, secure, and scalable systems.
 
-As an **AI Consultant at Outlier AI**, I continue to work on intelligent systems, but my journey has recently pivoted to Cybersecurity, where I am working on various projects, online courses, and certifications. When I'm not exploring Cybersecurity, you can find me discussing cars, discovering new music (CAS and Current Joys are some of my favorites), or working on projects that blend my creativity with technical solutions.
+As an **AI Consultant at Outlier AI**, I continue to work on intelligent systems, but my journey has recently pivoted to Cybersecurity, where I am working on various projects, online courses, and certifications. When I'm not exploring Cybersecurity, you can find me discussing cars, discovering new music (Late Night Drive Home and Current Joys are some of my favorites), or working on projects that blend my creativity with technical solutions.
 
 
 ## 🌐 Socials:
