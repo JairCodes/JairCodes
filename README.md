@@ -1,7 +1,7 @@
 # Hi there! I'm Jair 👋
 
 ## 💫 About Me:
-I'm a **Senior Computer Science student** at **Texas State University** with a **minor in Mathematics**, based in **Austin, TX**. My technical expertise spans **Cybersecurity, software engineering,** and **Networking**, with knowledge of **Python, Java, C++,** and **SQL**. I'm passionate about learning new technologies every day, applying myself to a new skill, and fortifying my security awareness/knowledge.
+I'm a **Senior Computer Science student** at **Texas State University** with a **minor in Mathematics**, based in **Dallas, TX**. My technical expertise spans **Cybersecurity, software engineering,** and **Networking**, with knowledge of **Python, Java, C++,** and **SQL**. I'm passionate about learning new technologies every day, applying myself to a new skill, and fortifying my security awareness/knowledge.
 
 Currently, I’m expanding my knowledge in **security analysis, network concepts,** and **security protocols**. I’ve developed hands-on experience in **hardware setup, troubleshooting,** and **optimizing systems** for efficiency and security. I’m focused on applying my skills to build and support reliable, secure, and scalable systems.
 
